@@ -5,10 +5,10 @@ _The purpose of this repository is to help you practice using_ `<audio>` _and_ `
 ## Before you begin
 Observe the files in this repo:  
 
+* `README.md` is the file you're reading.  You should be reading it on GitHub.
 * `birds.mp3` is the audio file you will be using.
 * `hans-rosling.jpg` is the image you will be using as the poster for the video.
 * `index.html` is where you will be doing your coding.
-* `README.md` is the file you're reading.  You should be reading it on GitHub.
 * `result.png` is the result you should be aiming for with `index.html`.
 * `stats.mp4` is the video file you will be using.
 
@@ -27,6 +27,5 @@ Observe the files in this repo:
 * Beautify your code so that you can easily see which elements are _inside_ of others (very helpful for debugging `div`s).  
   * _NOTE: the cloud9 keyboard shortcut is_ `⌘+shift+B`
 * Mirror your `master` branch with a `gh-pages` branch and `push`.
-
 
 Good luck!
