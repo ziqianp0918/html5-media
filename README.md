@@ -14,11 +14,11 @@ Observe the files in this repo:
 
 ## Directions
 * Fork and clone this repo.
-* Add the proper `<audio>` element.
+* Add the proper `<audio>` element to `index.html`.
   * The audio should be `birds.mp3`.
   * There should be controls.
   * _If the user's browser does not support HTML5 audio, that message should display_
-* Add the proper `<video>` element.
+* Add the proper `<video>` element to `index.html`.
   * The video should be `stats.mp4`.
   * There should be controls.
   * The poster should be `hans-rosling.jpg`.
